@@ -1,0 +1,85 @@
+header nav ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row-reverse;
+   
+    
+}
+
+header nav ul li{
+    margin-left: 10px;
+    
+    flex-wrap: wrap;
+}
+
+.google{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.azul{
+    color: blue;
+}
+
+.verde{
+    color: green;
+}
+.rojo{
+    color: red;
+}
+.amarillo{
+    color: rgb(238, 187, 21);
+}
+
+
+.barra{
+    border: solid 2px rgb(0, 0, 0);
+    border-radius: 25px;
+    margin-left: 300px;
+    margin-right: 300px;
+    display: flex;
+    flex-direction: row-reverse;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.botones-buscar{
+   
+    margin-left: 300px;
+    margin-right: 300px;
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+}
+
+.botones-buscar li{
+    margin: 5px;
+    border: solid 2px rgb(0, 0, 0);
+    border-radius: 20px;
+}
+
+footer{
+    margin-top: 20%;
+    align-items: flex-end;
+    display: block;
+}
+footer ul{
+    list-style-type: none;
+    border-top: solid 1px rgb(0, 0, 0);
+    display: flex;
+    height: 50px;
+    justify-content: space-between;
+}
+
+li{
+    padding: 8px;
+    padding-left: 10px;
+    
+}
+
+.ultimo{
+    fon
+}
